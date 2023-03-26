@@ -28,6 +28,11 @@
      height: 256px;
     margin: 0px;
 }
+.adv-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .adv-2-a{
     height: 230px;
     width: 130px;

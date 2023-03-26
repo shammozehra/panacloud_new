@@ -1,7 +1,10 @@
-#advantages{
-    height: 350px;
+#advantages-section{
+    height: 400px;
     padding: 20px;
-    background-color: white; 
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 
 }
 .adv-1{
